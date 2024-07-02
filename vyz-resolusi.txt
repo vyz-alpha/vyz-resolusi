@@ -1,3 +1,5 @@
 vyz resolusi
 - Konsisten belajar basic coding dan programming dari youtube dan platform
 - Konsisten menganalisis coding dan program orang di github
+- Memahami bahasa pemrogramman python
+- Memahami bahasa pemrograman C++
